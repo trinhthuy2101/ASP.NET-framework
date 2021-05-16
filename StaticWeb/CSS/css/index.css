@@ -1,0 +1,131 @@
+
+*{
+    margin: 2px;
+    padding: 2px;;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+main {
+    min-height: 100vh;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+  }
+body{
+    background: linear-gradient(to right top,#355C7D,#CD6C84);
+    text-align: center;
+}
+form{
+    left:85%;
+    position:absolute;
+}
+button{
+    border-radius: 10px;
+    border:0;
+    font-size: 15px;
+    width: 120px;
+    height:35px;
+    background: linear-gradient(to right bottom,rgba(246,114,128,0.4),rgba(248,177,149,0.7));
+}
+
+.footer h2{
+    color:#F1AF00;
+    font-size:20px;
+}
+.glass {
+    background: white;
+    min-height: 80vh;
+    width: 55%;
+    background: linear-gradient(
+      to right bottom,
+      rgba(255, 255, 255, 0.9 ),
+      rgba(255, 255, 255, 0.1)
+    );
+    border-radius: 20px;
+    z-index:2;
+    backdrop-filter:blur(3px);
+    display:flex;
+  }
+.dashboard{
+    background: linear-gradient(
+        to right bottom,
+        rgba(255, 255, 255, 0.7),
+        rgba(255, 255, 255, 0.3)
+      );
+      border-radius: 20px;
+    display:flex;
+    flex-direction: column;
+    flex:1;
+    align-items: center;
+    justify-content: center;
+    margin:0;
+    padding:0;
+    border:0;
+}
+.author{
+    flex:1;
+}
+.author img, .author figcaption{
+    margin:0;
+    padding:0;
+}
+.content{
+    flex:3;
+    display:flex;
+    flex-direction: column;
+}
+.slogan{
+    color:#103667;
+    align-items: center;
+    justify-content: center;
+    font-size:30px;
+    display:flex;
+    flex:1;
+}
+.wrapper{
+    flex:4;
+    align-items:center;
+    justify-content: center;
+    display:grid;
+    grid-template-columns: 110px 110px 110px;
+    grid-template-rows: 110px 110px 110px;
+}
+.wrapper img{
+    background-color:white;
+    border-radius:15px;
+    padding:3px;
+}
+.wrapper a{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.item1 {
+    width:215px;
+    height:215px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.circle1,.circle2{
+    background:linear-gradient(to right bottom,rgba(246,114,128,0.7), rgba(53,92,125,0.9));
+    border-radius: 50%;
+    position: absolute;
+}
+.circle1{    
+    bottom: -10%;
+    left: 10%;
+    width: 250px;
+    height: 250px;
+}
+.circle2{
+    top: 12%;
+    left: 68%;
+    width: 200px;
+    height: 200px;
+}
+.song,.heart{
+    color:#f70c47
+}
