@@ -1,0 +1,13 @@
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.exe
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.deps.json
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.json
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.runtimeconfig.dev.json
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.dll
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\bin\Debug\netcoreapp3.1\Encapsulation.pdb
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csprojAssemblyReference.cache
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfoInputs.cache
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.AssemblyInfo.cs
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.csproj.CoreCompileInputs.cache
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.dll
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.pdb
+D:\C-sharp\OOP-fundamental-principles\Encapsulation\obj\Debug\netcoreapp3.1\Encapsulation.genruntimeconfig.cache

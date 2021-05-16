@@ -1,0 +1,13 @@
+C:\Users\thuy\source\repos\hello-world\bin\Debug\netcoreapp3.1\hello-world.exe
+C:\Users\thuy\source\repos\hello-world\bin\Debug\netcoreapp3.1\hello-world.deps.json
+C:\Users\thuy\source\repos\hello-world\bin\Debug\netcoreapp3.1\hello-world.runtimeconfig.json
+C:\Users\thuy\source\repos\hello-world\bin\Debug\netcoreapp3.1\hello-world.runtimeconfig.dev.json
+C:\Users\thuy\source\repos\hello-world\bin\Debug\netcoreapp3.1\hello-world.dll
+C:\Users\thuy\source\repos\hello-world\bin\Debug\netcoreapp3.1\hello-world.pdb
+C:\Users\thuy\source\repos\hello-world\obj\Debug\netcoreapp3.1\hello-world.csprojAssemblyReference.cache
+C:\Users\thuy\source\repos\hello-world\obj\Debug\netcoreapp3.1\hello-world.AssemblyInfoInputs.cache
+C:\Users\thuy\source\repos\hello-world\obj\Debug\netcoreapp3.1\hello-world.AssemblyInfo.cs
+C:\Users\thuy\source\repos\hello-world\obj\Debug\netcoreapp3.1\hello-world.csproj.CoreCompileInputs.cache
+C:\Users\thuy\source\repos\hello-world\obj\Debug\netcoreapp3.1\hello-world.dll
+C:\Users\thuy\source\repos\hello-world\obj\Debug\netcoreapp3.1\hello-world.pdb
+C:\Users\thuy\source\repos\hello-world\obj\Debug\netcoreapp3.1\hello-world.genruntimeconfig.cache

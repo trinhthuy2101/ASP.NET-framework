@@ -1,0 +1,8 @@
+#build folder
+**.build/
+#bin folder
+**.bin/
+#obj
+**.obj/
+#.vs/
+**..vs/

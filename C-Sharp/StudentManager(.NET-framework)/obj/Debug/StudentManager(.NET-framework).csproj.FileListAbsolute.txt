@@ -1,0 +1,7 @@
+D:\C-sharp\StudentManager(.NET-framework)\obj\Debug\StudentManager(.NET-framework).csprojAssemblyReference.cache
+D:\C-sharp\StudentManager(.NET-framework)\obj\Debug\StudentManager(.NET-framework).csproj.CoreCompileInputs.cache
+D:\C-sharp\StudentManager(.NET-framework)\bin\Debug\StudentManager(.NET-framework).exe.config
+D:\C-sharp\StudentManager(.NET-framework)\bin\Debug\StudentManager(.NET-framework).exe
+D:\C-sharp\StudentManager(.NET-framework)\bin\Debug\StudentManager(.NET-framework).pdb
+D:\C-sharp\StudentManager(.NET-framework)\obj\Debug\StudentManager(.NET-framework).exe
+D:\C-sharp\StudentManager(.NET-framework)\obj\Debug\StudentManager(.NET-framework).pdb

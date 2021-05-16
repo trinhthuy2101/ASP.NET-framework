@@ -1,0 +1,13 @@
+D:\C-sharp\OOP-fundamental-principles\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+D:\C-sharp\OOP-fundamental-principles\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+D:\C-sharp\OOP-fundamental-principles\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+D:\C-sharp\OOP-fundamental-principles\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+D:\C-sharp\OOP-fundamental-principles\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+D:\C-sharp\OOP-fundamental-principles\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+D:\C-sharp\OOP-fundamental-principles\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+D:\C-sharp\OOP-fundamental-principles\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+D:\C-sharp\OOP-fundamental-principles\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+D:\C-sharp\OOP-fundamental-principles\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+D:\C-sharp\OOP-fundamental-principles\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+D:\C-sharp\OOP-fundamental-principles\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+D:\C-sharp\OOP-fundamental-principles\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache
